@@ -1,0 +1,15 @@
+<script src="<?php echo base_url();?>assets2/js/jquery.min.js"></script>
+<script src="<?php echo base_url();?>assets2/js/bootstrap.min.js"></script>
+<script src="<?php echo base_url();?>assets2/js/modernizr.min.js"></script>
+ <script src="<?php echo base_url();?>assets2/js/detect.js"></script>
+ <script src="<?php echo base_url();?>assets2/js/fastclick.js"></script>
+ <script src="<?php echo base_url();?>assets2/js/jquery.slimscroll.js"></script>
+  <script src="<?php echo base_url();?>assets2/js/jquery.blockUI.js"></script>
+  <script src="<?php echo base_url();?>assets2/js/waves.js"></script>
+  <script src="<?php echo base_url();?>assets2/js/wow.min.js"></script>
+  <script src="<?php echo base_url();?>assets2/js/jquery.nicescroll.js"></script>
+  <script src="<?php echo base_url();?>assets2/js/jquery.scrollTo.min.js"></script>
+  <script src="<?php echo base_url();?>assets2/plugins/morris/morris.min.js"></script>
+  <script src="<?php echo base_url();?>assets2/plugins/raphael/raphael-min.js"></script>
+  <script src="<?php echo base_url();?>assets2/pages/dashborad.js"></script>
+  <script src="<?php echo base_url();?>assets2/js/app.js"></script>
